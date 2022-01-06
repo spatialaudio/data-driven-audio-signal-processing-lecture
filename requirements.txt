@@ -4,3 +4,5 @@ scipy
 librosa
 soundfile
 ipympl
+sklearn
+tensorflow
