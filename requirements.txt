@@ -6,3 +6,5 @@ soundfile
 ipympl
 scikit-learn
 tensorflow
+keras-tuner
+
