@@ -1,0 +1,5 @@
+set -ex
+
+# setup symbolic links to databases
+ln -s /home/jovyan/mnt/data/INT/AudioMNIST data/
+ln -s /home/jovyan/mnt/data/INT/free-spoken-digit-dataset data/
